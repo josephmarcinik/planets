@@ -1,4 +1,9 @@
 It's cold and wet, but everything is cyan.
 The two moons may be a problem for Wolfman.
 Look at all those Martians!
+Wolfman was here.
+<<<<<<< HEAD
 Wolfman has a tour here.
+=======
+Wolfman has a tour here, the third time.
+>>>>>>> 7d2ea8e33b5562923e48a2231fca64f7b8efe6fa
